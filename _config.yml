@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yinan Li"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "she/her/hers"  
+  bio              : "PhD Student in Computer Science"
+  location         : "Tempe, Arizona, USA"
+  employer         : "Arizona State University"
   uri              : # URL
   email            : "yinanli2@asu.edu" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
