@@ -3,7 +3,7 @@ title: "Feel the Connection: Haptic Enhanced Interaction with an AI Agent"
 collection: publications
 category: manuscripts
 permalink: /publication/3-SenseiPen
-date: 2015-10-01
+date: 2025
 venue: 'Journal 1'
 # slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://yinan.li.github.io/files/3706599.3720173.pdf'
