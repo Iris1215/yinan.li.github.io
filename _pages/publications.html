@@ -11,7 +11,19 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Conference and Journal Publications</h2><hr />
 {% for post in site.publications reversed %}
+  {% if post.pub_section == 'workshops' %}
+    {% continue %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>Organized Workshops</h2><hr />
+{% for post in site.publications reversed %}
+  {% unless post.pub_section == 'workshops' %}
+    {% continue %}
+  {% endunless %}
   {% include archive-single.html %}
 {% endfor %}
 
