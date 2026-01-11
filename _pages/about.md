@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yinan Li"
+# title: "Yinan Li"
 author_profile: true
 redirect_from: 
   - /about/
